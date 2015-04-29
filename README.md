@@ -12,37 +12,32 @@ formu pro naše potřeby.
 Cíle projektu
 -------------
 
-=== Průchod
-
+### Průchod
 Umožnit 24/7 veřejný průchod přes park.
 
+### Rekreace
+Umožnit 24/7 rekreaci občanů Napajedel: louka, lavky, pod stromem,
+před klubem, provoz divadla.
 
-=== Rekreace
-
-Umožnit 24/7 rekreaci občanů Napajedel
-
-
-=== Klub
-
-Otevřít klub kultury ve starém stylu: nekuřácký bufet, fotbálek,
+### Klub
+Otevřít Klub kultury ve starém stylu: nekuřácký bufet, fotbálek,
 salonek, divadlo. Nejsem pro televizu, ale to je nepodstatný
 detail a přizpůsobit jej lze nakonec, jak uznáme za vhodné.
 Zachovat původní lidové ceny jak to půjde.
 
-=== Udržení
-
+### Udržení
 Zajistit, že park zůstane průchozí, otevřený a bezpečný
-Zabránit bordelu, krádežím, bezpečné stromy, atp... Hlavně ovšem
-nedopustit současnou a nebo horší situaci. Tj. udržet zámek
+Zabránit bordelu, krádežím, bezpečné stromy, atp. Hlavně ovšem
+nedopustit současnou a nebo horší situaci tj. udržet zámek
 a park nezadlužený a nechátrající.
 
 
 Základní informace
 ------------------
 
-=== Napajedla
+### Napajedla
 
-==== Počet občanů ČR v Napajedlech k lednu 2015
+#### Počet občanů ČR v Napajedlech k lednu 2015
 
 * Muži            3553
 * Muži 15+        3070
@@ -53,7 +48,7 @@ Základní informace
 
 zdroj: MVČR
 
-==== Informativní počet cizinců s realizovaným pobytem v Napajedlech k 1.1.2015
+#### Informativní počet cizinců s realizovaným pobytem v Napajedlech k 1.1.2015
 
 * Muži              69
 * Muži 15+          64
@@ -66,9 +61,9 @@ zdroj: MVČR
 
 zdroj: MVČR, (nenahrazuje data ČSÚ)
 
-=== Zámek
+#### Zámek
 
-!(UP_Napajedla_zamek.png)
+![uzemni_plan](UP_Napajedla_zamek.png)
 
 Chráněná nemovitá kulturní památka evidována pod číslem 2001 jako "zámek č.p. 265 s areálem"
 * Zdroj: Obecně závazná vyhláška č. 6/2002 o závazných částech územního plánu města Napajedla
@@ -76,9 +71,9 @@ Chráněná nemovitá kulturní památka evidována pod číslem 2001 jako "zám
 Postup
 ------
 
-1. Zjistit cenu
-2. Vymyslet, jak udržet zamýšlený právní subjekt nezadlužený
-3. Složit se
-4. Otevřít park
-5. 
+* Zjistit cenu
+* Vymyslet, jak udržet zamýšlený právní subjekt nezadlužený
+* Vymyslet, jak udržet areál nechátrající
+* Složit se
+* Otevřít park
 
