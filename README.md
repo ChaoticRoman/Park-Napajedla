@@ -4,10 +4,10 @@ Zpřístupnění zámeckého parku v Napajedlích
 Popis projektu
 --------------
 
-Zatím chceme zjistit, kolik by stálo park a zámek
-koupit a kolik by stálo jej udržovat. Podle objemu prostředků, které
-budou třeba na pořízení i provoz pak vymyslíme konkrétní právní
-formu pro naše potřeby. 
+Zatím chceme zjistit, kolik by stálo park a zámek koupit a kolik by stálo
+jej udržovat. Následně podle objemu prostředků, které budou třeba na pořízení
+a provoz, vymyslíme konkrétní právní formu pro naše potřeby a nějaký
+ekonomicko-provozní plán.
 
 Cíle projektu
 -------------
@@ -31,13 +31,29 @@ Zabránit bordelu, krádežím, bezpečné stromy, atp. Hlavně ovšem
 nedopustit současnou a nebo horší situaci tj. udržet zámek
 a park nezadlužený a nechátrající.
 
+Postup
+------
+
+* Zjistit situaci, případně cenu, najít zdroje
+* Vymyslet, jak udržet zamýšlený právní subjekt nezadlužený
+* Vymyslet, jak udržet areál nechátrající
+* Složit se
+* Otevřít park
+* Udržovat vše bezpečné, uklizené a fungující a sledovat
+ekonomickou situaci založeného právního subjektu
+
 
 Základní informace
 ------------------
 
 ### Napajedla
 
-#### Počet občanů ČR v Napajedlech k lednu 2015
+Současný odhad lidí pro naši věc je minimálně 100, 1000 by mohlo být reálných.
+
+TODO:
+* Zestručnit tuto kapitolu, data do samostatného souboru a sem jen odkaz
+
+#### Počet občanů ČR v Napajedlích k lednu 2015
 
 * Muži            3553
 * Muži 15+        3070
@@ -48,7 +64,8 @@ Základní informace
 
 zdroj: MVČR
 
-#### Informativní počet cizinců s realizovaným pobytem v Napajedlech k 1.1.2015
+
+#### Informativní počet cizinců s realizovaným pobytem v Napajedlích k 1.1.2015
 
 * Muži              69
 * Muži 15+          64
@@ -61,19 +78,16 @@ zdroj: MVČR
 
 zdroj: MVČR, (nenahrazuje data ČSÚ)
 
+
 #### Zámek
 
 ![uzemni_plan](UP_Napajedla_zamek.png)
+Po rozklikuntí klikněte na "Raw" pro plné rozlišení
+* Zdroj: http://www.napajedla.cz/cs/uzemni-plan
+
 
 Chráněná nemovitá kulturní památka evidována pod číslem 2001 jako "zámek č.p. 265 s areálem"
 * Zdroj: Obecně závazná vyhláška č. 6/2002 o závazných částech územního plánu města Napajedla
 
-Postup
-------
 
-* Zjistit cenu
-* Vymyslet, jak udržet zamýšlený právní subjekt nezadlužený
-* Vymyslet, jak udržet areál nechátrající
-* Složit se
-* Otevřít park
 
