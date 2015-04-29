@@ -1,4 +1,4 @@
-Zpřístupnění zámeckého parku v Napajedlech
+Zpřístupnění zámeckého parku v Napajedlích
 ==========================================
 
 Popis projektu
@@ -13,18 +13,25 @@ Cíle projektu
 -------------
 
 === Průchod
+
 Umožnit 24/7 veřejný průchod přes park.
 
+
 === Rekreace
+
 Umožnit 24/7 rekreaci občanů Napajedel
 
+
 === Klub
+
 Otevřít klub kultury ve starém stylu: nekuřácký bufet, fotbálek,
 salonek, divadlo. Nejsem pro televizu, ale to je nepodstatný
 detail a přizpůsobit jej lze nakonec, jak uznáme za vhodné.
-Otázka nakolik lidové ceny 
+Zachovat původní lidové ceny jak to půjde.
 
-=== Zajistit, že park zůstane průchozí, otevřený a bezpečný
+=== Udržení
+
+Zajistit, že park zůstane průchozí, otevřený a bezpečný
 Zabránit bordelu, krádežím, bezpečné stromy, atp... Hlavně ovšem
 nedopustit současnou a nebo horší situaci. Tj. udržet zámek
 a park nezadlužený a nechátrající.
