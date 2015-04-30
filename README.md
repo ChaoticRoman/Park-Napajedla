@@ -98,7 +98,8 @@ Po rozklikuntí klikněte na "Raw" pro plné rozlišení
 * Zdroj: http://www.napajedla.cz/cs/uzemni-plan
 
 Legenda k územnímu plánu:
-![uzemni_plan](UP_legenda.png)
+
+![uzemni_plan](UP_legenda_all.png)
 
 Chráněná nemovitá kulturní památka evidována pod číslem 2001 jako "zámek č.p. 265 s areálem"
 * Zdroj: Obecně závazná vyhláška č. 6/2002 o závazných částech územního plánu města Napajedla
