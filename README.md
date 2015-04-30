@@ -14,11 +14,11 @@ Problém má dvě části:
 1. Jak získat park zpět.
 2. Jak zabránit jeho ztrátě v budoucnu.
 
-Druhou část musíme vyřešit před realizací první části, pokud bychom se do toho
-vrhli a vše, co máme, dali za zámek, ten by se zadlužil a šel do exekuce, bylo
-by to celé k ničemu. Nejprve je třeba zjistit, kolik by stálo celý areál koupit
-a kolik by stálo jej udržovat. Následně podle objemu prostředků, které budou
-třeba na pořízení a provoz, vymyslíme konkrétní právní formu pro naše potřeby
+Druhou část musíme vyřešit před realizací první části, protože pokud bychom se
+do toho vrhli a vše, co máme, dali za zámek, ten by se zadlužil a šel do exekuce,
+bylo by to celé k ničemu. Nejprve je třeba zjistit, kolik by stálo celý areál
+koupit a kolik by stálo jej udržovat. Následně podle objemu prostředků, které
+budou třeba na pořízení a provoz, vymyslíme konkrétní právní formu pro naše potřeby
 a ekonomicko-provozní plán. S tím seznámíme veřejnost, vyhlásíme, co je třeba
 a pak už bude vše záležet, zda najdeme dostatečný počet lidí s dostatkem peněz.
 
@@ -27,20 +27,19 @@ Cíle projektu
 -------------
 
 ### Průchod
-Umožnit bezpečný veřejný průchod přes park 24/7. To znamená jižní brána,
-severní brána a východní branka areálu by měla být stále otevřená.
+Umožnit bezpečný veřejný průchod přes park 24/7, tzn. jižní brána, severní brána
+a východní branka areálu stále otevřeny.
 
 ### Rekreace
-Umožnit rekreaci občanů Napajedel v zámeckém parku: louka a lavičky v areálu
-by měly být dostupné 24/7.
+Umožnit rekreaci návštěvníků zámeckého parku: louka a lavičky v areálu by měly
+být přístupné a v dobrém stavu.
 
 ### Klub
 Otevřít Klub kultury v původním režimu: nekuřácký bufet, salonek a divadlo.
 
 ### Udržení
-Zajistit, že park zůstane průchozí, otevřený a bezpečný. Zabránit nepořádku,
-krádežím, bezpečné stromy, atp. Hlavně ovšem nedopustit současnou a nebo
-horší situaci tj. udržet zámek a park náš, nezadlužený a nechátrající.
+Zajistit, že park zůstane průchozí, otevřený a bezpečný a především nedopustit
+současnou nebo horší situaci. Udržet zámek a park náš, nezadlužený a nechátrající.
 
 Postup
 ------
@@ -49,7 +48,7 @@ Postup
 * Vymyslet, jak udržet zamýšlený právní subjekt nezadlužený
 * Vymyslet, jak udržet areál nechátrající
 * Složit se
-* Otevřít park
+* Otevřít park a klub
 * Udržovat vše bezpečné, uklizené a fungující a sledovat ekonomickou situaci
 založeného právního subjektu
 
@@ -152,10 +151,13 @@ http://www.europeanrealestateads.com/listing/chateaux-napajedla--888.html
 
 Toto pravděpodobně bude skutečně od hraběnky, protože prodejce Zdeněk Mikel zároveň
 prodává i GAMEX CZ, jehož jednatelkou je hraběnka a kontaktní osobou je kdosi jménem
-Stanislav Gajdošík. GAMEX CZ je v likvidaci od 1.1.2015. <!-- Viz:
+Stanislav Gajdošík. GAMEX CZ je v likvidaci od 1.1.2015.
 
+<!--
+Viz:
 http://rejstrik-firem.kurzy.cz/60708611/gamex-cz-sro-v-likvidaci/
-http://www.edb.cz/firma-137626-gamex-cz-napajedla -->
+http://www.edb.cz/firma-137626-gamex-cz-napajedla
+-->
 
 Inzerat je z 2012-06-28, ale datum inzeratu byl skryt, ale lze jej najít
 ve zdrojovém kódu webové stránky.
