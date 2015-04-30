@@ -4,10 +4,9 @@ Zpřístupnění zámeckého parku v Napajedlích
 Popis projektu
 --------------
 
-Zatím chceme zjistit, kolik by stálo park a zámek koupit a kolik by stálo
-jej udržovat. Následně podle objemu prostředků, které budou třeba na pořízení
-a provoz, vymyslíme konkrétní právní formu pro naše potřeby a nějaký
-ekonomicko-provozní plán.
+Zjistit, kolik by stálo celý areál koupit a kolik by stálo jej udržovat.
+Následně podle objemu prostředků, které budou třeba na pořízení a provoz,
+vymyslíme konkrétní právní formu pro naše potřeby a ekonomicko-provozní plán.
 
 Cíle projektu
 -------------
@@ -48,7 +47,7 @@ Základní informace
 
 ### Napajedla
 
-Současný odhad lidí pro naši věc je minimálně 100, 1000 by mohlo být reálných.
+Současný odhad lidí pro naši věc je 10 až 1000.
 
 TODO:
 * Zestručnit tuto kapitolu, data do samostatného souboru a sem jen odkaz
@@ -84,6 +83,9 @@ zdroj: MVČR, (nenahrazuje data ČSÚ)
 ![uzemni_plan](UP_Napajedla_zamek.png)
 Po rozklikuntí klikněte na "Raw" pro plné rozlišení
 * Zdroj: http://www.napajedla.cz/cs/uzemni-plan
+
+Legenda k územnímu plánu:
+![uzemni_plan](UP_legenda.png)
 
 
 Chráněná nemovitá kulturní památka evidována pod číslem 2001 jako "zámek č.p. 265 s areálem"
