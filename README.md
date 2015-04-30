@@ -16,11 +16,11 @@ Problém má dvě části:
 
 Druhou část musíme vyřešit před realizací první části, pokud bychom se do toho
 vrhli a vše, co máme, dali za zámek, ten by se zadlužil a šel do exekuce, bylo
-by to celé ztraceno. Nejprve je třeba zjistit, kolik by stálo celý areál koupit
+by to celé k ničemu. Nejprve je třeba zjistit, kolik by stálo celý areál koupit
 a kolik by stálo jej udržovat. Následně podle objemu prostředků, které budou
 třeba na pořízení a provoz, vymyslíme konkrétní právní formu pro naše potřeby
 a ekonomicko-provozní plán. S tím seznámíme veřejnost, vyhlásíme, co je třeba
-a pak už bude vše záležet, zda najdeme dost lidí s dostatkem peněz.
+a pak už bude vše záležet, zda najdeme dostatečný počet lidí s dostatkem peněz.
 
 
 Cíle projektu
@@ -35,17 +35,17 @@ Umožnit rekreaci občanů Napajedel v zámeckém parku: louka a lavičky v are�
 by měly být dostupné 24/7.
 
 ### Klub
-Otevřít Klub kultury ve starém stylu: nekuřácký bufet, salonek a divadlo.
+Otevřít Klub kultury v původním režimu: nekuřácký bufet, salonek a divadlo.
 
 ### Udržení
-Zajistit, že park zůstane průchozí, otevřený a bezpečný. Zabránit bordelu,
+Zajistit, že park zůstane průchozí, otevřený a bezpečný. Zabránit nepořádku,
 krádežím, bezpečné stromy, atp. Hlavně ovšem nedopustit současnou a nebo
-horší situaci tj. udržet zámek a park nezadlužený a nechátrající.
+horší situaci tj. udržet zámek a park náš, nezadlužený a nechátrající.
 
 Postup
 ------
 
-* Zjistit situaci.
+* Zjistit, jaká je situace.
 * Vymyslet, jak udržet zamýšlený právní subjekt nezadlužený
 * Vymyslet, jak udržet areál nechátrající
 * Složit se
@@ -64,7 +64,6 @@ Současný odhad lidí pro naši věc je 10 až 2000.
 <!-- TODO:
 * Zestručnit tuto kapitolu, data do samostatného souboru a sem jen odkaz -->
 
-
 #### Počet občanů ČR v Napajedlích k lednu 2015
 
 * Muži            3553
@@ -75,7 +74,6 @@ Současný odhad lidí pro naši věc je 10 až 2000.
 * Celkem 15+      6309
 
 zdroj: MVČR
-
 
 #### Informativní počet cizinců s realizovaným pobytem v Napajedlích k 1.1.2015
 
@@ -93,7 +91,15 @@ zdroj: MVČR, (nenahrazuje data ČSÚ)
 
 #### Zámek
 
+##### Právní postavení Zámku
+
+Chráněná nemovitá kulturní památka evidována pod číslem 2001 jako "zámek č.p. 265 s areálem"
+* Zdroj: Obecně závazná vyhláška č. 6/2002 o závazných částech územního plánu města Napajedla
+
+Výřez z územního plánu zde:
+
 ![uzemni_plan](UP_Napajedla_zamek.png)
+
 Po rozklikuntí klikněte na "Raw" pro plné rozlišení
 * Zdroj: http://www.napajedla.cz/cs/uzemni-plan
 
@@ -101,8 +107,44 @@ Legenda k územnímu plánu:
 
 ![uzemni_plan](UP_legenda_all.png)
 
-Chráněná nemovitá kulturní památka evidována pod číslem 2001 jako "zámek č.p. 265 s areálem"
-* Zdroj: Obecně závazná vyhláška č. 6/2002 o závazných částech územního plánu města Napajedla
+Dle územního plánu je tedy stavba zámku *nemovitá kulturní památka*, chodníky v areálu
+*veřejná prostranství*, zelené plochy jsou *zeleň sídelní - veřejná*, hřiště jsou
+*plochy pro sport a rekreaci*, klub a budova za klubem jsou *plochy technického vybavení*,
+a konečně
+
+Stavební parcela číslo 459 je stavba zámku a nádvoří a číslo není na mapce, bylo ovšem možné
+ji vyhledat v katastru nemovitostí). Dle katastru jsou zde dva způsoby ochrany nemovitostí:
+
+* menší chráněné území
+* nemovitá kulturní památka
+
+Dále jsou zde zapsány čtyři omezení vlastnického práva:
+
+* Předkupní právo
+* Věcné břemeno chůze a jízdy
+* Zákaz zatížení
+* Zástavní právo smluvní
+
+Vlastnické právo na zámek, tzn. parcelu 459, má Zámek Napajedla s.r.o., Zámecká 265,
+76361 Napajedla (dále jen Zámek s.r.o). Zámku s.r.o. dále patří parcela 455 (dům u jižní brány),
+parcela 280/7, 280/11, 280/15, 2034/31 a 1722.
+
+![uzemni_plan](katastr.png)
+
+Vlastnické právo na parcelu 280/1, tedy na park, jak jej známe, má Gajdošík Eva Mgr.,
+Chmelnice 853, 76361 Napajedla (dále jen Bathory). Bathory dále vlastní parcelu 3171,
+co to je?
+
+![uzemni_plan](katastr_3171.png)
+
+Klub (parcela 788) a budova za ním (789) je Města Napajedla. Hřiště 280/6, 280/7 a 280/9
+jsou majetkem TJ Fatra Slavia Napajedla, Komenského 101, 76361 Napajedla (dále jen TJ Fatra Slavia)
+
+![uzemni_plan](katastr_788.png)
+
+Zdroj: http://nahlizenidokn.cuzk.cz
+
+##### Cena zámku
 
 Prodává se zde, cena je pekelných 10M € = 275M Kč = 275 000 Kč * 1000 lidí.
 
@@ -110,14 +152,13 @@ http://www.europeanrealestateads.com/listing/chateaux-napajedla--888.html
 
 Toto pravděpodobně bude skutečně od hraběnky, protože prodejce Zdeněk Mikel zároveň
 prodává i GAMEX CZ, jehož jednatelkou je hraběnka a kontaktní osobou je kdosi jménem
-Stanislav Gajdošík. GAMEX CZ je v likvidaci od 1.1.2015. Viz:
+Stanislav Gajdošík. GAMEX CZ je v likvidaci od 1.1.2015. <!-- Viz:
 
 http://rejstrik-firem.kurzy.cz/60708611/gamex-cz-sro-v-likvidaci/
-http://www.edb.cz/firma-137626-gamex-cz-napajedla
+http://www.edb.cz/firma-137626-gamex-cz-napajedla -->
 
-Inzerat je z 2012-06-28, ale datum inzeratu byl skryt, ve zdrojovém kódu webové stránky
-se ovšem dá najít.
-
+Inzerat je z 2012-06-28, ale datum inzeratu byl skryt, ale lze jej najít
+ve zdrojovém kódu webové stránky.
 
 Detailní plán postupu
 ---------------------
