@@ -16,10 +16,12 @@ Problém má dvě části:
 
 Druhou část musíme vyřešit před realizací první části, protože pokud bychom se
 do toho vrhli a vše, co máme, dali za zámek, ten by se zadlužil a šel do exekuce,
-bylo by to celé k ničemu. Nejprve je třeba zjistit, kolik by stálo celý areál
+bylo by to celé k ničemu.
+
+Nejprve je třeba zjistit, kolik by stálo celý areál
 koupit a kolik by stálo jej udržovat. Následně podle objemu prostředků, které
 budou třeba na pořízení a provoz, vymyslíme konkrétní právní formu pro naše potřeby
-a ekonomicko-provozní plán. S tím seznámíme veřejnost, vyhlásíme, co je třeba
+a nějaký ekonomicko-provozní plán. S tím seznámíme veřejnost, vyhlásíme, co je třeba
 a pak už bude vše záležet, zda najdeme dostatečný počet lidí s dostatkem peněz.
 
 
@@ -45,8 +47,7 @@ Postup
 ------
 
 * Zjistit, jaká je situace.
-* Vymyslet, jak udržet zamýšlený právní subjekt nezadlužený
-* Vymyslet, jak udržet areál nechátrající
+* Vymyslet, jak udržet zamýšlený právní subjekt nezadlužený a areál nechátrající
 * Složit se
 * Otevřít park a klub
 * Udržovat vše bezpečné, uklizené a fungující a sledovat ekonomickou situaci
@@ -55,38 +56,6 @@ založeného právního subjektu
 
 Základní informace
 ------------------
-
-### Napajedla
-
-Současný odhad lidí pro naši věc je 10 až 2000.
-
-<!-- TODO:
-* Zestručnit tuto kapitolu, data do samostatného souboru a sem jen odkaz -->
-
-#### Počet občanů ČR v Napajedlích k lednu 2015
-
-* Muži            3553
-* Muži 15+        3070
-* Ženy            3710
-* Ženy 15+        3239
-* Celkem          7263
-* Celkem 15+      6309
-
-zdroj: MVČR
-
-#### Informativní počet cizinců s realizovaným pobytem v Napajedlích k 1.1.2015
-
-* Muži              69
-* Muži 15+          64
-* Ženy              35
-* Ženy 15+          32
-* Trvalý pobyt      55
-* Přechodný pobyt   49
-* Celkem           104
-* Celkem 15+        96
-
-zdroj: MVČR, (nenahrazuje data ČSÚ)
-
 
 #### Zámek
 
@@ -99,8 +68,7 @@ Výřez z územního plánu zde:
 
 ![uzemni_plan](UP_Napajedla_zamek.png)
 
-Po rozklikuntí klikněte na "Raw" pro plné rozlišení
-* Zdroj: http://www.napajedla.cz/cs/uzemni-plan
+Po rozklikuntí klikněte na "Raw" pro plné rozlišení. Zdroj: http://www.napajedla.cz/cs/uzemni-plan
 
 Legenda k územnímu plánu:
 
@@ -109,7 +77,8 @@ Legenda k územnímu plánu:
 Dle územního plánu je tedy stavba zámku *nemovitá kulturní památka*, chodníky v areálu
 *veřejná prostranství*, zelené plochy jsou *zeleň sídelní - veřejná*, hřiště jsou
 *plochy pro sport a rekreaci*, klub a budova za klubem jsou *plochy technického vybavení*,
-a konečně
+plocha okolo házenkářského hřiště je *plocha technického hřiště* a konečně severní
+příjezdová cesta je *silnicí*.
 
 Stavební parcela číslo 459 je stavba zámku a nádvoří a číslo není na mapce, bylo ovšem možné
 ji vyhledat v katastru nemovitostí). Dle katastru jsou zde dva způsoby ochrany nemovitostí:
@@ -143,6 +112,7 @@ jsou majetkem TJ Fatra Slavia Napajedla, Komenského 101, 76361 Napajedla (dále
 
 Zdroj: http://nahlizenidokn.cuzk.cz
 
+
 ##### Cena zámku
 
 Prodává se zde, cena je pekelných 10M € = 275M Kč = 275 000 Kč * 1000 lidí.
@@ -162,7 +132,40 @@ http://www.edb.cz/firma-137626-gamex-cz-napajedla
 Inzerat je z 2012-06-28, ale datum inzeratu byl skryt, ale lze jej najít
 ve zdrojovém kódu webové stránky.
 
+
+### Napajedla
+
+Současný odhad lidí ochotných zapojit se do projektu je 10 až 2000. Velká otázka
+ovšem je, kolik budou ochotni investovat.
+
+<!-- TODO:
+* Zestručnit tuto kapitolu, data do samostatného souboru a sem jen odkaz -->
+
+#### Počet občanů ČR v Napajedlích k lednu 2015
+
+* Muži            3553
+* Muži 15+        3070
+* Ženy            3710
+* Ženy 15+        3239
+* Celkem          7263
+* Celkem 15+      6309
+
+zdroj: MVČR
+
+#### Informativní počet cizinců s realizovaným pobytem v Napajedlích k 1.1.2015
+
+* Muži              69
+* Muži 15+          64
+* Ženy              35
+* Ženy 15+          32
+* Trvalý pobyt      55
+* Přechodný pobyt   49
+* Celkem           104
+* Celkem 15+        96
+
+zdroj: MVČR, (nenahrazuje data ČSÚ)
+
+
 Detailní plán postupu
 ---------------------
-
 
