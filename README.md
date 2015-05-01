@@ -47,7 +47,6 @@ současnou nebo horší situaci. Udržet zámek a park náš, nezadlužený a ne
 <!--
 Postup
 ------
-
 * Zjistit, jaká je situace.
 * Vymyslet, jak udržet zamýšlený právní subjekt nezadlužený a areál nechátrající
 * Složit se
@@ -264,7 +263,7 @@ Detailní plán postupu
 Nepochybně jsme teď ve fázi zjišťování informací a přípravy detailního plánu postupu.
 
 Cena je vysoká a bude ji třeba snížit. Následovat by měla právní analýza, jak toho
-dosáhnout (vyvlastnění s náhradou? jiné možnosti?)
+dosáhnout (vyvlastnění? jiné možnosti?)
 
 Co můžeme napadnout:
 * nerespektování sídelní zeleně, tj. golfové hřiště někdo povolil? A co permakulturní zahradu,
@@ -273,8 +272,7 @@ kterou hraběnka plánuje?
 
 Podle mého názoru lze použít vyvlastnění na parcely 280/1 a 280/15,
 jejichž cena by ani nebyla tak vysoká, pokud půjde použít ty státní
-30 Kč/m² v případě nasazené v případě vyvlastňování
-pro dostavbu silnice R35
+30 Kč/m² nasazené v případě vyvlastňování pro dostavbu silnice R35
 
 (71178 + 10578) m2 * 30 Kč/m² = 2 452 680 Kč
 
@@ -283,3 +281,4 @@ pro dostavbu silnice R35
 nebo omezit též k vytvoření podmínek pro nezbytný přístup, řádné
 užívání stavby nebo příjezd k pozemku nebo stavbě."
 
+Zdroj: http://www.businessinfo.cz/cs/clanky/vyvlastneni-ppbi-51049.html#!&chapter=2
