@@ -237,10 +237,27 @@ zdroj: MVČR
 
 zdroj: MVČR, (nenahrazuje data ČSÚ)
 
+#### Cena projektů Města Napajedel
+
+##### Naše Napajedla - město pro život, revitalizace veřejných ploch a komunikací v městské památkové zóně - 3. etapa
+Celkové náklady:  23,9 mil. Kč vč. DPH
+Dotace z evrop. fondu pro regionální rozvoj: 15,1 mil. Kč vč. DPH
+Vlastní zdroje města:  8,8 mil. Kč vč. DPH
 
 Detailní plán postupu
 ---------------------
 
 Nepochybně jsme teď ve fázi zjišťování informací a přípravy detailního plánu postupu.
+
 Cena je vysoká a bude ji třeba snížit. Následovat by měla právní analýza, jak toho
 dosáhnout (vyvlastnění s náhradou? jiné možnosti?)
+
+Co můžeme napadnout:
+* nerespektování sídelní zeleně, tj. golfové hřiště někdo povolil? A co permakulturní zahradu,
+kterou hraběnka plánuje?
+* nerespektování věcného břemena chůze přes park
+
+Rozhodně bychom měli také napravovat lživé informace a polopravdy. Začal bych na Wikipedii zde,
+ten článek má otřesnou kvalitu:
+
+http://cs.wikipedia.org/wiki/Napajedla_%28z%C3%A1mek%29
