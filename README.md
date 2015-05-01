@@ -44,6 +44,7 @@ Otevřít Klub kultury v původním režimu: nekuřácký bufet, salonek a divad
 Zajistit, že park zůstane průchozí, otevřený a bezpečný a především nedopustit
 současnou nebo horší situaci. Udržet zámek a park náš, nezadlužený a nechátrající.
 
+<!--
 Postup
 ------
 
@@ -53,14 +54,10 @@ Postup
 * Otevřít park a klub
 * Udržovat vše bezpečné, uklizené a fungující a sledovat ekonomickou situaci
 založeného právního subjektu
-
+-->
 
 Základní informace
 ------------------
-
-#### Právní informace
-
-Zákon o vyvlastnění: http://www.zakonyprolidi.cz/cs/2006-184
 
 #### Zámek
 
@@ -209,6 +206,9 @@ http://www.edb.cz/firma-137626-gamex-cz-napajedla
 Inzerat je z 2012-06-28, ale datum inzeratu byl skryt, ale lze jej najít
 ve zdrojovém kódu webové stránky.
 
+#### Právní informace
+
+Vyvlastnění: http://www.businessinfo.cz/cs/clanky/vyvlastneni-ppbi-51049.html
 
 ### Napajedla
 
@@ -249,6 +249,15 @@ Celkové náklady:  23,9 mil. Kč vč. DPH
 Dotace z evrop. fondu pro regionální rozvoj: 15,1 mil. Kč vč. DPH
 Vlastní zdroje města:  8,8 mil. Kč vč. DPH
 
+Dostupné informace
+------------------
+
+Rozhodně bychom měli také napravovat lživé informace a polopravdy. Začal bych na Wikipedii zde,
+ten článek má otřesnou kvalitu:
+
+http://cs.wikipedia.org/wiki/Napajedla_%28z%C3%A1mek%29
+
+
 Detailní plán postupu
 ---------------------
 
@@ -261,12 +270,6 @@ Co můžeme napadnout:
 * nerespektování sídelní zeleně, tj. golfové hřiště někdo povolil? A co permakulturní zahradu,
 kterou hraběnka plánuje?
 * nerespektování věcného břemena chůze přes park
-
-Rozhodně bychom měli také napravovat lživé informace a polopravdy. Začal bych na Wikipedii zde,
-ten článek má otřesnou kvalitu:
-
-http://cs.wikipedia.org/wiki/Napajedla_%28z%C3%A1mek%29
-
 
 Podle mého názoru lze použít vyvlastnění na parcely 280/1 a 280/15,
 jejichž cena by ani nebyla tak vysoká, pokud půjde použít ty státní
