@@ -57,6 +57,10 @@ založeného právního subjektu
 Základní informace
 ------------------
 
+#### Právní informace
+
+Zákon o vyvlastnění: http://www.zakonyprolidi.cz/cs/2006-184
+
 #### Zámek
 
 ##### Právní postavení Zámku
