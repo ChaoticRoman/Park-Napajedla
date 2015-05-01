@@ -4,17 +4,18 @@ Zpřístupnění zámeckého parku v Napajedlích
 Popis projektu
 --------------
 
+<!--
 Pravděpodobně jediný způsob, jak navrátit původní stav parku, je koupit to celé
 zpět a nedopustit, aby jsme o areál znovu přišli. Státní vlastnictví by podle
 mého názoru jen odložilo problém, ale pokud existuje způsob, kterým by EU nebo
-ČR mohly přispět k řešení našeho problému, neměli bychom jej přehlédnout.
+ČR mohly přispět k řešení našeho problému, neměli bychom jej přehlédnout.-->
 
 Problém má dvě části:
 
 1. Jak získat park zpět.
 2. Jak zabránit jeho ztrátě v budoucnu.
 
-Druhou část musíme vyřešit před realizací první části, protože pokud bychom se
+<!-- Druhou část musíme vyřešit před realizací první části, protože pokud bychom se
 do toho vrhli a vše, co máme, dali za zámek, ten by se zadlužil a šel do exekuce,
 bylo by to celé k ničemu.
 
@@ -22,7 +23,7 @@ Nejprve je třeba zjistit, kolik by stálo celý areál
 koupit a kolik by stálo jej udržovat. Následně podle objemu prostředků, které
 budou třeba na pořízení a provoz, vymyslíme konkrétní právní formu pro naše potřeby
 a nějaký ekonomicko-provozní plán. S tím seznámíme veřejnost, vyhlásíme, co je třeba
-a pak už bude vše záležet, zda najdeme dostatečný počet lidí s dostatkem peněz.
+a pak už bude vše záležet, zda najdeme dostatečný počet lidí s dostatkem peněz. -->
 
 
 Cíle projektu
@@ -265,3 +266,17 @@ Rozhodně bychom měli také napravovat lživé informace a polopravdy. Začal b
 ten článek má otřesnou kvalitu:
 
 http://cs.wikipedia.org/wiki/Napajedla_%28z%C3%A1mek%29
+
+
+Podle mého názoru lze použít vyvlastnění na parcely 280/1 a 280/15,
+jejichž cena by ani nebyla tak vysoká, pokud půjde použít ty státní
+30 Kč/m² v případě nasazené v případě vyvlastňování
+pro dostavbu silnice R35
+
+(71178 + 10578) m2 * 30 Kč/m² = 2 452 680 Kč
+
+"Významným ustanovením k vyvlastnění je i ustanovení § 170 odst.
+2 stavebního zákona, které stanoví, že právo k pozemku lze odejmout
+nebo omezit též k vytvoření podmínek pro nezbytný přístup, řádné
+užívání stavby nebo příjezd k pozemku nebo stavbě."
+
