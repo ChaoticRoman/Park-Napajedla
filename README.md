@@ -61,24 +61,21 @@ Základní informace
 
 ##### Právní postavení Zámku
 
-Chráněná nemovitá kulturní památka evidována pod číslem 2001 jako "zámek č.p. 265 s areálem"
-* Zdroj: Obecně závazná vyhláška č. 6/2002 o závazných částech územního plánu města Napajedla
-
-Výřez z územního plánu zde:
+Výřez z územního plánu se zámeckým areálem:
 
 ![uzemni_plan](UP_Napajedla_zamek.png)
 
 Po rozklikuntí klikněte na "Raw" pro plné rozlišení. Zdroj: http://www.napajedla.cz/cs/uzemni-plan
-
-Legenda k územnímu plánu:
-
-![uzemni_plan](UP_legenda_all.png)
 
 Dle územního plánu je tedy stavba zámku *nemovitá kulturní památka*, chodníky v areálu
 *veřejná prostranství*, zelené plochy jsou *zeleň sídelní - veřejná*, hřiště jsou
 *plochy pro sport a rekreaci*, klub a budova za klubem jsou *plochy technického vybavení*,
 plocha okolo házenkářského hřiště je *plocha technického hřiště* a konečně severní
 příjezdová cesta je *silnicí*.
+
+Legenda k územnímu plánu:
+
+![uzemni_plan](UP_legenda_all.png)
 
 Stavební parcela číslo 459 je stavba zámku a nádvoří a číslo není na mapce, bylo ovšem možné
 ji vyhledat v katastru nemovitostí). Dle katastru jsou zde dva způsoby ochrany nemovitostí:
@@ -93,6 +90,10 @@ Dále jsou zde zapsány čtyři omezení vlastnického práva:
 * Zákaz zatížení
 * Zástavní právo smluvní
 
+Věcné břemeno je v katastru zaznačeno takto, současná situace je tedy výsměch.
+
+![katastr](vecne-bremeno.png)
+
 Vlastnické právo na zámek, tzn. parcelu 459, má Zámek Napajedla s.r.o., Zámecká 265,
 76361 Napajedla (dále jen Zámek s.r.o). Zámku s.r.o. dále patří parcela 455 (dům u jižní brány),
 parcela 280/7, 280/11, 280/15, 2034/31 a 1722.
@@ -101,7 +102,7 @@ parcela 280/7, 280/11, 280/15, 2034/31 a 1722.
 
 Vlastnické právo na parcelu 280/1, tedy na park, jak jej známe, má Gajdošík Eva Mgr.,
 Chmelnice 853, 76361 Napajedla (dále jen Bathory). Bathory dále vlastní parcelu 3171,
-co to je?
+copak to je?
 
 ![uzemni_plan](katastr_3171.png)
 
@@ -111,6 +112,10 @@ jsou majetkem TJ Fatra Slavia Napajedla, Komenského 101, 76361 Napajedla (dále
 ![uzemni_plan](katastr_788.png)
 
 Zdroj: http://nahlizenidokn.cuzk.cz
+
+Zámek je chráněná nemovitá kulturní památka evidována pod číslem 2001 jako "zámek č.p. 265 s areálem"
+dle Obecně závazné vyhlášky č. 6/2002 o závazných částech územního plánu města Napajedla.
+
 
 
 ##### Cena zámku
