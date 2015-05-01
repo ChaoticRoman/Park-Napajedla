@@ -70,7 +70,7 @@ Po rozklikuntí klikněte na "Raw" pro plné rozlišení. Zdroj: http://www.napa
 Dle územního plánu je tedy stavba zámku *nemovitá kulturní památka*, chodníky v areálu
 *veřejná prostranství*, zelené plochy jsou *zeleň sídelní - veřejná*, hřiště jsou
 *plochy pro sport a rekreaci*, klub a budova za klubem jsou *plochy technického vybavení*,
-plocha okolo házenkářského hřiště je *plocha technické* a konečně severní
+plocha okolo házenkářského hřiště je *plocha občanské vybavenosti* a konečně severní
 příjezdová cesta je *silnicí*. Co se smí se kterým územím je popsáno v Obecně závazná vyhlášce
 č. 6/2002 o závazných částech územního plánu města Napajedla (dále jen OZV), která je dostupná zde:
 
