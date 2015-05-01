@@ -70,15 +70,81 @@ Po rozklikuntí klikněte na "Raw" pro plné rozlišení. Zdroj: http://www.napa
 Dle územního plánu je tedy stavba zámku *nemovitá kulturní památka*, chodníky v areálu
 *veřejná prostranství*, zelené plochy jsou *zeleň sídelní - veřejná*, hřiště jsou
 *plochy pro sport a rekreaci*, klub a budova za klubem jsou *plochy technického vybavení*,
-plocha okolo házenkářského hřiště je *plocha technického hřiště* a konečně severní
-příjezdová cesta je *silnicí*.
+plocha okolo házenkářského hřiště je *plocha technické* a konečně severní
+příjezdová cesta je *silnicí*. Co se smí se kterým územím je popsáno v Obecně závazná vyhlášce
+č. 6/2002 o závazných částech územního plánu města Napajedla (dále jen OZV), která je dostupná zde:
 
-Legenda k územnímu plánu:
+http://napajedla.cz/uploads/doc/ozv-c-6-2002-o-zavaznych-castek-upn.doc
+
+V této vyhlášce je pro každý typ plochy napsáno přípustné, podmíněné a nepřípustné využití.
+V OZV je to popsáno takto:
+
+###### Přípustné
+
+Tyto činnosti, stavby a zařízení  tvoří nebo vhodně doplňují dominantní funkci v území a jsou realizovatelné bez dalšího omezení.
+
+###### Podmíněné
+
+Tyto činnost, stavby a zařízení jsou realizovatelné po individuálním posouzení povolujících orgánů územního řízení, vzhledem k tomu, že by v území mohly způsobovat kolizi s okolními funkcemi.
+Při povolení je třeba být v souladu s příslušným regulativem a příslušnou právní úpravou 
+a současně se v daném území nenabízí vhodnější alternativní řešení.
+Podmíněné funkce a činnosti přípustné v jednotlivých funkčních plochách nesmí překročit svým rozsahem hlavní funkci.
+
+###### Nepřípustné
+
+Tyto činnosti, stavby a zařízení jsou nerealizovatelné za žádných podmínek.
+
+
+Nás zajímá hlavně *zeleň sídelní - veřejná* a *veřejná prostranství*. V OZV jsou následující sekce:
+
+###### Sídelní zeleň 
+
+Přestavují plochy zeleně důležité pro vzhled města a jeho místních částí, která se nachází
+v zastavěném území, zeleň uličních prostorů, veřejných prostranství, náměstí, parků, lesoparků atd.
+
+Přípustné
+- sadově upravené plochy zeleně
+
+Podmíněné
+- plochy pro sport
+- stavby a zařízení pro odpočinek
+- stavby sloužící dopravě pěší, cyklistické, parkoviště
+- stavby technické vybavenosti
+
+Nepřípustné
+- stavby pro bydlení
+- stavby občanské vybavenosti
+- stavby pro průmyslovou a zemědělskou výrobu, skladové areály
+- čerpací stanice PHM
+
+###### Veřejná prostranství 
+
+Plochy nacházející se v centrální části města, zahrnující převážně plochy náměstí a přilehlé navazující
+prostory uliční, které jsou dopravně zklidněny s upřednostněním pěší dopravy. Plochy sloužící
+krátkodobému oddychu,které jsou reprezentativně upraveny.
+
+Přípustné
+- komunikace a plochy sloužící pěší dopravě
+- veřejná zeleň
+- městský mobiliář
+
+Podmíněné
+- stavby a zařízení pro automobilovou dopravu
+- krátkodobé prodejní stánky
+- informační a reklamní poutače 
+- stavby a zařízení technické vybavenosti
+- prodejní stánky,buňky
+
+Nepřípustné
+- stavby pro bydlení, občanskou vybavenost, průmysl, zemědělství, sport a rekreaci, technickou vybavenost
+- velkoplošná reklamní zařízení
+
+Legenda k územnímu plánu pro úplnost následuje.
 
 ![uzemni_plan](UP_legenda_all.png)
 
-Stavební parcela číslo 459 je stavba zámku a nádvoří a číslo není na mapce, bylo ovšem možné
-ji vyhledat v katastru nemovitostí). Dle katastru jsou zde dva způsoby ochrany nemovitostí:
+Stavební parcela číslo 459 je stavba zámku a nádvoří a číslo není na mapce výše, bylo ovšem možné
+ji vyhledat v katastru nemovitostí. Dle katastru jsou zde aplikovány dva způsoby ochrany nemovitostí:
 
 * menší chráněné území
 * nemovitá kulturní památka
@@ -90,13 +156,14 @@ Dále jsou zde zapsány čtyři omezení vlastnického práva:
 * Zákaz zatížení
 * Zástavní právo smluvní
 
-Věcné břemeno je v katastru zaznačeno takto, současná situace je tedy výsměch.
+Věcné břemeno je v katastru zaznačeno takto, současná situace je tedy výsměch občanům Napajedla.
 
 ![katastr](vecne-bremeno.png)
 
 Vlastnické právo na zámek, tzn. parcelu 459, má Zámek Napajedla s.r.o., Zámecká 265,
 76361 Napajedla (dále jen Zámek s.r.o). Zámku s.r.o. dále patří parcela 455 (dům u jižní brány),
-parcela 280/7, 280/11, 280/15, 2034/31 a 1722.
+parcela 280/7, 280/11, 280/15, 2034/31 a 1722. Parcela 280/15 je zeleň ve svahu pod
+zámkem a severní příjezdová silnice.
 
 ![uzemni_plan](katastr.png)
 
@@ -174,3 +241,6 @@ zdroj: MVČR, (nenahrazuje data ČSÚ)
 Detailní plán postupu
 ---------------------
 
+Nepochybně jsme teď ve fázi zjišťování informací a přípravy detailního plánu postupu.
+Cena je vysoká a bude ji třeba snížit. Následovat by měla právní analýza, jak toho
+dosáhnout (vyvlastnění s náhradou? jiné možnosti?)
