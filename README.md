@@ -15,10 +15,10 @@ Problém má dvě části:
 1. Jak získat park zpět.
 2. Jak zabránit jeho ztrátě v budoucnu.
 
-Dle materiálu [1] má Zámek Napajedla asi 8000 návštěvníků dle sdělení Zámku Napajedla, s.r.o.
-(dále jen Zámek s.r.o.) (s. 16). Toto číslo nepovažuji za věrohodné, ovšem při 500 Kč na návštěvníka
-to dává 4M Kč ročně zisk. Otázka jaké má zámek náklady. Stejný materiál doslova uvádí
-mezi slabými stránkami města Napajedel (s. 43):
+Dle materiálu [1] má Zámek asi 8000 návštěvníků dle sdělení Zámku Napajedla, s.r.o.
+(s. 16). Toto číslo nepovažuji za věrohodné, ovšem při 500 Kč na návštěvníka
+to dává 4M Kč ročně zisk. Otázka je, jaké má zámek náklady. Stejný materiál
+doslova uvádí mezi slabými stránkami města Napajedel (s. 43):
 
 * Nízká aktivita občanů se zájmem o dění ve městě, špatné mezilidské vztahy
 * Životní prostředí
@@ -27,11 +27,18 @@ mezi slabými stránkami města Napajedel (s. 43):
 
 Na s. 53 je jako součást strategického cíle III. *Rozvoj cestovního ruchu rodinného typu*
 v opatření 3.2 *Městké kulturní centrum* eveden aktivita 3.2.d *Zajistit udržitelnost
-stávajících kulturních objektů města v zámeckém areálu*.
+stávajících kulturních objektů města v zámeckém areálu*. Problém ovšem už není
+jinde rozveden. Na předposlední s. 70 je uvedeno, že Napajedla hospodaří se zhruba
+vyrovnaným rozpočtem 100M Kč. Na poslední straně si můžete prohlédnout do čeho
+jsou tyto peníze investovány.
 
-
-[1] PROGRAM ROZVOJE MĚSTA NAPAJEDLA NA OBDOBÍ 2013 – 2022 (červen 2013)
+[1] PROGRAM ROZVOJE MĚSTA NAPAJEDLA NA OBDOBÍ 2013 – 2022 (listopad 2013)
 http://www.napajedla.cz/uploads/pdf/program-rozvoje-mesta-napajedla.pdf
+
+34 respondentů dotazníkového šetření z dubna 2013 o 338 respondentech
+uvedlo, že jako problém vnímají *omezený přístup do zámecké zahrady/neudržovaný stav*.
+
+Zdroj: 
 
 <!-- Druhou část musíme vyřešit před realizací první části, protože pokud bychom se
 do toho vrhli a vše, co máme, dali za zámek, ten by se zadlužil a šel do exekuce,
