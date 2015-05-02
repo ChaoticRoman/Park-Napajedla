@@ -161,20 +161,23 @@ Věcné břemeno je v katastru zaznačeno takto, současná situace je tedy výs
 
 ![katastr](vecne-bremeno.png)
 
-Vlastnické právo na zámek, tzn. parcelu 459, má Zámek Napajedla s.r.o., Zámecká 265,
+Vlastnické právo na parcelu se Zámkem, tzn. parcelu 459, má Zámek Napajedla s.r.o., Zámecká 265,
 76361 Napajedla (dále jen Zámek s.r.o). Zámku s.r.o. dále patří parcela 455 (dům u jižní brány),
-parcela 280/7, 280/11, 280/15, 2034/31 a 1722. Parcela 280/15 je zeleň ve svahu pod
-zámkem a severní příjezdová silnice.
+460 (dům u severní brány), parcela 280/7 (kousek parku okolo transformátoru u severní brány),
+280/11 (kulturní památka u tenisového hřiště), 280/15 (zeleň ve svahu pod zámkem a severní
+příjezdová silnice), 2034/31 (zahrádka u východní branky) a 1722 (technická budova
+poblíž severní brány).
 
 ![uzemni_plan](katastr.png)
+![uzemni_plan](katastr_280-11.png)
 
 Vlastnické právo na parcelu 280/1, tedy na park, jak jej známe, má Gajdošík Eva Mgr.,
 Chmelnice 853, 76361 Napajedla (dále jen Bathory). Bathory dále vlastní parcelu 3171,
-copak to je?
+myslím, že to je trafostanice u severní brány.
 
 ![uzemni_plan](katastr_3171.png)
 
-Klub (parcela 788) a budova za ním (789) je Města Napajedla. Hřiště 280/6, 280/7 a 280/9
+Klub (parcela 788) a budova za ním (789) je Města Napajedla. Hřiště 280/5, 280/6 a 280/9
 jsou majetkem TJ Fatra Slavia Napajedla, Komenského 101, 76361 Napajedla (dále jen TJ Fatra Slavia)
 
 ![uzemni_plan](katastr_788.png)
@@ -268,6 +271,7 @@ dosáhnout (vyvlastnění? jiné možnosti?)
 Co můžeme napadnout:
 * nerespektování sídelní zeleně, tj. golfové hřiště někdo povolil? A co permakulturní zahradu,
 kterou hraběnka plánuje?
+* nerespektování veřejného prostranství
 * nerespektování věcného břemena chůze přes park
 
 Podle mého názoru lze použít vyvlastnění na parcely 280/1 a 280/15,
