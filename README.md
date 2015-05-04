@@ -4,6 +4,8 @@ Zpřístupnění zámeckého parku v Napajedlích
 Popis projektu
 --------------
 
+Zámecký park v Napajedlích byl minimálně 
+
 <!--
 Pravděpodobně jediný způsob, jak navrátit původní stav parku, je koupit to celé
 zpět a nedopustit, aby jsme o areál znovu přišli. Státní vlastnictví by podle
