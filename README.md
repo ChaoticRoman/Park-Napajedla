@@ -4,11 +4,11 @@ Zpřístupnění zámeckého parku v Napajedlích
 Popis projektu
 --------------
 
-Pravděpodobně jediný způsob, jak navrátit původní stav parku, je koupit park
-zpět a nedopustit, aby jsme o park znovu přišli. Městské vlastnictví by mohlo
-bý řešením problému, ale nutně jím být nemusí. Pokud existuje způsob, kterým
-by EU nebo ČR mohly přispět k řešení našeho problému, neměli bychom jej
-přehlédnout.
+Jakákoliv konfrontace se ukázala kontraproduktivní, pravděpodobně jediný
+způsob, jak navrátit původní stav parku, je koupit park zpět a nedopustit,
+aby jsme o park znovu přišli. Městské vlastnictví by mohlo bý řešením
+problému, ale nutně jím být nemusí. Pokud existuje způsob, kterým by EU
+nebo ČR mohly přispět k řešení našeho problému, neměli bychom jej přehlédnout.
 
 Problém má dvě části:
 
