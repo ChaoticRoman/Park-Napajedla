@@ -6,7 +6,7 @@ Popis projektu
 
 Do svého uzavření byl zámecký park v Napajedlích výjimečným místem, kde s potěšením
 trávili volný čas lidé všech generací ze všech částí Napajedel. Účelem tohoto
-projektu je prozkoumat možnosti, které by občanům města tento prostor znovu zpřístupnili
+projektu je prozkoumat možnosti, které by občanům města tento prostor znovu zpřístupnily.
 
 Navrhovaný způsob, jak navrátit původní stav parku, je koupit park zpět a nedopustit,
 aby jsme o park znovu přišli. Městské vlastnictví by mohlo bý řešením problému, ale
