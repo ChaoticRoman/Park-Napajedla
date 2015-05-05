@@ -4,11 +4,14 @@ Zpřístupnění zámeckého parku v Napajedlích
 Popis projektu
 --------------
 
-Jakákoliv konfrontace se ukázala kontraproduktivní, pravděpodobně jediný
-způsob, jak navrátit původní stav parku, je koupit park zpět a nedopustit,
-aby jsme o park znovu přišli. Městské vlastnictví by mohlo bý řešením
-problému, ale nutně jím být nemusí. Pokud existuje způsob, kterým by EU
-nebo ČR mohly přispět k řešení našeho problému, neměli bychom jej přehlédnout.
+Do svého uzavření byl zámecký park v Napajedlích výjimečným místem, kde s potěšením
+trávili volný čas lidé všech generací ze všech částí Napajedel. Účelem tohoto
+projektu je prozkoumat možnosti, které by občanům města tento prostor znovu zpřístupnili
+
+Navrhovaný způsob, jak navrátit původní stav parku, je koupit park zpět a nedopustit,
+aby jsme o park znovu přišli. Městské vlastnictví by mohlo bý řešením problému, ale
+nutně jím být nemusí. Pokud existuje způsob, kterým by EU nebo ČR mohly přispět k řešení
+našeho problému, neměli bychom jej přehlédnout.
 
 Problém má dvě části:
 
