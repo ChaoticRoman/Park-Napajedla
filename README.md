@@ -261,7 +261,7 @@ Další postup
 
 Nepochybně jsme teď ve fázi zjišťování informací a přípravy detailního plánu postupu.
 
-Parcely 208/1 a 208/15, tj. park, všechny čtyři brány (o horní si nejsem jist) a cesta skrz
+Parcely 280/1 a 280/15, tj. park, všechny čtyři brány (o horní si nejsem jist) a cesta skrz
 při potenciální ceně 500 Kč/m² z Napajedelských novin 7/2014:
 
 (71178 + 10578) m² * 500 Kč/m² = 40 878 000 Kč
