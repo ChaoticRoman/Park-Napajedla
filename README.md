@@ -176,7 +176,7 @@ poblíž severní brány).
 ![uzemni_plan](katastr_280-11.png)
 
 Vlastnické právo na parcelu 280/1, tedy na park, jak jej známe, má Gajdošík Eva Mgr.,
-Chmelnice 853, 76361 Napajedla, dále vlastní parcelu 3171, trafostanice u severní brány.
+Chmelnice 853, 76361 Napajedla, dále vlastní také parcelu 3171 (trafostanice u severní brány).
 
 ![uzemni_plan](katastr_3171.png)
 
@@ -193,10 +193,9 @@ dle Obecně závazné vyhlášky č. 6/2002 o závazných částech územního p
 
 ##### Cena zámku
 
-V Napajedelských novinách 7/2014 se hovoří o ceně 500 Kč/m².
+V Napajedelských novinách 7/2014 se hovoří o ceně 500 Kč/m² za park.
 
-Dále se prodává jako kus zde, cena je pekelných 10M € = 275M Kč, ale aspoň nám jej hned někdo neskoupí pryč
-úplně. Na druhou stranu, možná by byl příští majitel přístupnější domluvě.
+Dále se prodává celý areál zde, cena je 10M € = 275M Kč.
 
 http://www.europeanrealestateads.com/listing/chateaux-napajedla--888.html
 
