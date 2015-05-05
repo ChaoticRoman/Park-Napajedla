@@ -208,9 +208,8 @@ a kontaktní osobou je osoba jménem Stanislav Gajdošík. Inzerat je z 2012-06-
 ### Napajedla
 
 Současný odhad lidí ochotných zapojit se do projektu je 10 až 2000. Velká otázka
-ovšem je, kolik budou ochotni investovat.
-
-TODO: dodat vekovou strukturu z informaci na strankach mesta.
+ovšem je, kolik budou ochotni investovat. K následujícím informacím by se hodilo
+doplnit věkovou strukturu obyvatel.
 
 #### Počet občanů ČR v Napajedlích k lednu 2015
 
@@ -241,9 +240,10 @@ zdroj: MVČR, (nenahrazuje data ČSÚ)
 Vyrovnaný rozpočet je ca 100M celkem. Typické výdaje na školy apod. jsou po ca několika milionech.
 
 ##### Naše Napajedla - město pro život, revitalizace veřejných ploch a komunikací v městské památkové zóně - 3. etapa
-Celkové náklady:  23,9 mil. Kč vč. DPH
-Dotace z evrop. fondu pro regionální rozvoj: 15,1 mil. Kč vč. DPH
-Vlastní zdroje města:  8,8 mil. Kč vč. DPH
+
+* Celkové náklady:  23,9 mil. Kč vč. DPH
+* Dotace z evrop. fondu pro regionální rozvoj: 15,1 mil. Kč vč. DPH
+* Vlastní zdroje města:  8,8 mil. Kč vč. DPH
 
 Dostupné informace
 ------------------
@@ -257,7 +257,6 @@ Další postup
 ------------
 
 Nepochybně jsme teď ve fázi zjišťování informací a přípravy detailního plánu postupu.
-Vyvolávat jakoukoliv konfrontaci je zcela kontraproduktivní.
 
 Parcely 208/1 a 208/15, tj. park, všechny čtyři brány (o horní si nejsem jist) a cesta skrz
 při potenciální ceně 500 Kč/m² z Napajedelských novin 7/2014:
@@ -266,7 +265,7 @@ při potenciální ceně 500 Kč/m² z Napajedelských novin 7/2014:
 
 1. To je dost. Dalo by se to snížit?
 2. Gajdošík nepochybně bude namítat možností výtržností a vandalismu. To by mohl vyřešit
-policista, který bude procházet parkem, nikoliv stále, ale v rámci obhlídky města. Jak je
+policajt, který bude procházet parkem, nikoliv stále, ale v rámci obhlídky města. Jak je
 toto problém?
-3. Je čas začít s tím seznamovat více lidí a zeptat se Gajdošík, jaké by byly podmínky
-prodeje (provozní řád apod.)??
+3. Je už čas začít s tím seznamovat více lidí a zeptat se Gajdošík, jaké by byly podmínky
+prodeje (provozní řád apod.)?
