@@ -4,10 +4,11 @@ Zpřístupnění zámeckého parku v Napajedlích
 Popis projektu
 --------------
 
-Pravděpodobně jediný způsob, jak navrátit původní stav parku, je koupit to celé
-zpět a nedopustit, aby jsme o areál znovu přišli. Státní vlastnictví by podle
-mého názoru jen odložilo problém, ale pokud existuje způsob, kterým by EU nebo
-ČR mohly přispět k řešení našeho problému, neměli bychom jej přehlédnout.
+Pravděpodobně jediný způsob, jak navrátit původní stav parku, je koupit park
+zpět a nedopustit, aby jsme o park znovu přišli. Městské vlastnictví by mohlo
+bý řešením problému, ale nutně jím být nemusí. Pokud existuje způsob, kterým
+by EU nebo ČR mohly přispět k řešení našeho problému, neměli bychom jej
+přehlédnout.
 
 Problém má dvě části:
 
@@ -15,8 +16,8 @@ Problém má dvě části:
 2. Jak zabránit jeho ztrátě v budoucnu.
 
 Druhou část musíme vyřešit před realizací první části, protože pokud bychom se
-do toho vrhli a vše, co máme, dali za zámek, ten by se zadlužil a šel do exekuce,
-bylo by to celé k ničemu.
+do toho vrhli a vše, co máme, dali za park, nebo dokonce za zámek, ten by se
+zadlužil a šel do exekuce, bylo by to celé k ničemu.
 
 Dle materiálu [1] má Zámek asi 8000 návštěvníků dle sdělení Zámku Napajedla, s.r.o.
 (s. 16). Toto číslo nepovažuji za věrohodné, ovšem při 500 Kč na návštěvníka
@@ -57,7 +58,7 @@ Otevřít Klub kultury v původním režimu: nekuřácký bufet, salonek a divad
 
 ### Udržení
 Zajistit, že park zůstane průchozí, otevřený a bezpečný a především nedopustit
-současnou nebo horší situaci. Udržet park náš, nezadlužený a nechátrající.
+současnou nebo horší situaci. Udržet park náš (=města?), nezadlužený a nechátrající.
 
 Základní informace
 ------------------
