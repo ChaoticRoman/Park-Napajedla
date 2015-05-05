@@ -63,7 +63,7 @@ současnou nebo horší situaci. Udržet park náš (=města?), nezadlužený a 
 Základní informace
 ------------------
 
-#### Zámek
+#### Zámek Napajedla
 
 ##### Právní postavení Zámku
 
@@ -165,6 +165,8 @@ Věcné břemeno je v katastru zaznačeno takto.
 
 ![katastr](vecne-bremeno.png)
 
+##### Vlastnická práva
+
 Vlastnické právo na parcelu se Zámkem, tzn. parcelu 459, má Zámek Napajedla s.r.o., Zámecká 265,
 76361 Napajedla (dále jen Zámek s.r.o). Zámku s.r.o. dále patří parcela 455 (dům u jižní brány),
 460 (dům u severní brány), parcela 280/7 (kousek parku okolo transformátoru u severní brány),
@@ -200,16 +202,8 @@ Dále se prodává celý areál zde, cena je 10M € = 275M Kč.
 http://www.europeanrealestateads.com/listing/chateaux-napajedla--888.html
 
 Prodejce Zdeněk Mikel zároveň prodává i GAMEX CZ, jehož jednatelkou je Gajdošík
-a kontaktní osobou je osoba jménem Stanislav Gajdošík. GAMEX CZ je v likvidaci
-od 1.1.2015. Inzerat je z 2012-06-28, ale datum inzeratu byl skryt, ale lze jej najít
-ve zdrojovém kódu webové stránky.
+a kontaktní osobou je osoba jménem Stanislav Gajdošík. Inzerat je z 2012-06-28.
 
-
-<!--
-Viz:
-http://rejstrik-firem.kurzy.cz/60708611/gamex-cz-sro-v-likvidaci/
-http://www.edb.cz/firma-137626-gamex-cz-napajedla
--->
 
 ### Napajedla
 
@@ -254,24 +248,25 @@ Vlastní zdroje města:  8,8 mil. Kč vč. DPH
 Dostupné informace
 ------------------
 
-Pěkně shrnuto na Wikipedii, Centauriho bloku, a v Napajedelských novinách 7/2010 a 7/2014 (jak pekne pred volbami).
+Pěkně shrnuto na Wikipedii, Centauriho bloku, a v Napajedelských novinách 7/2010 a 7/2014.
 
 http://cs.wikipedia.org/wiki/Napajedla_%28z%C3%A1mek%29
 
 
-Postup
-------
+Další postup
+------------
 
 Nepochybně jsme teď ve fázi zjišťování informací a přípravy detailního plánu postupu.
+Vyvolávat jakoukoliv konfrontaci je zcela kontraproduktivní.
 
-<--
-Co můžeme napadnout:
-* nerespektování sídelní zeleně, tj. golfové hřiště někdo povolil? A co permakulturní zahradu?
-* nerespektování veřejného prostranství (?)
-* nerespektování věcného břemena chůze přes park
--->
-
-Parcely 208/1 a 208/15 při potenciální ceně 500 Kč/m² z Napajedelských novin 7/2014:
+Parcely 208/1 a 208/15, tj. park, všechny čtyři brány (o horní si nejsem jist) a cesta skrz
+při potenciální ceně 500 Kč/m² z Napajedelských novin 7/2014:
 
 (71178 + 10578) m² * 500 Kč/m² = 40 878 000 Kč
 
+1. To je dost. Dalo by se to snížit?
+2. Gajdošík nepochybně bude namítat možností výtržností a vandalismu. To by mohl vyřešit
+policista, který bude procházet parkem, nikoliv stále, ale v rámci obhlídky města. Jak je
+toto problém?
+3. Je čas začít s tím seznamovat více lidí a zeptat se Gajdošík, jaké by byly podmínky
+prodeje (provozní řád apod.)??
